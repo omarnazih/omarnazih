@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+## my name is omar
 <!--
 **omarnazih/omarnazih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on improving my js skills
+- 🌱 I’m currently learning react 
+- 👯 I’m looking to collaborate on any frontend / web project 
+- 🤔 I’m looking for help with typescript 
+- 💬 Ask me about anything
+- 📫 How to reach me: omarnazihcs@gmail.com
+- 😄 Pronouns: omar like omar 
+- ⚡ Fun fact: i love riding bikes
