@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 <!-- - 🔭 I’m currently working on improving my js skills-->
 - 💬 Ask me about anything
 - 📫 How to reach me: omarnazihcs@gmail.com
-- 😄 Pronouns: omar like omar 
+- 😄 Pronouns: عمر like omar 
 - ⚡ Fun fact: i love riding bikes
