@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <!-- - 🔭 I’m currently working on improving my js skills-->
-- 🌱 I’m currently learning design patterns 
-- 👯 I’m looking to collaborate on any fullstack / web project 
-- 🤔 I’m looking for help with typescript 
 - 💬 Ask me about anything
 - 📫 How to reach me: omarnazihcs@gmail.com
 - 😄 Pronouns: omar like omar 
