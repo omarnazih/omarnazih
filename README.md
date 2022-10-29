@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 <!-- - 🔭 I’m currently working on improving my js skills-->
 - 💬 Ask me about anything
 - 📫 How to reach me: omarnazihcs@gmail.com 
-- ⚡ Fun fact: i love riding bikes
