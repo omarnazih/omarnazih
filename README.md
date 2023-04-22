@@ -6,12 +6,6 @@ My technical skills include proficiency in several programming languages, such a
 # My Work
 <br>
 You can find some of my most notable projects on my GitHub profile. I take pride in developing clean, efficient code that delivers results. Whether it's a small utility script or a complex web application, I approach every project with the same level of attention to detail and commitment to quality.<br>
-# My Values
-<br>
-I believe in the importance of collaboration and communication in software development. I strive to work closely with my team members and stakeholders to ensure that everyone is aligned and working towards the same goals. I also value continuous learning and improvement, and I am always seeking out new challenges and opportunities to grow my skills and knowledge.<br>
-# Get in Touch
-<br>
-If you have any questions or would like to collaborate on a project, feel free to reach out to me. You can contact me through my GitHub profile or via email at omarnazihcs@gmail.com. I look forward to hearing from you!
 
 
 ## 🌐 Socials:
