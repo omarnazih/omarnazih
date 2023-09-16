@@ -17,8 +17,5 @@ You can find some of my most notable projects on my GitHub profile. I take pride
 ![](https://github-readme-streak-stats.herokuapp.com/?user=omarnazih&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=omarnazih&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/omarnazih?country.x=EG&locale.x=en_US) 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
