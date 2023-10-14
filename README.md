@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello there, I'm Omar, a software developer passionate about creating innovative solutions to real-world problems. I have a strong background in computer science, with experience in both front-end and back-end development.<br>
 # My Skills
-My technical skills include proficiency in several programming languages, such as:<br>Python<br>JavaScript<br>TypeScript<br>I also have experience in using a wide range of tools and frameworks, including:<br>Flask<br>React<br>Node.js<br>MongoDB<br>PostgreSQL<br>
+My technical skills include proficiency in several programming languages, such as:<br>Python<br>JavaScript<br>TypeScript<br>I also have experience in using a wide range of tools and frameworks, including:<br>Typescript<br>Flask<br>React<br>NextJS<br>Node.js<br>MongoDB<br>PostgreSQL<br>
 
 # My Work
 You can find some of my most notable projects on my GitHub profile. I take pride in developing clean, efficient code that delivers results. Whether it's a small utility script or a complex web application, I approach every project with the same level of attention to detail and commitment to quality.<br>
